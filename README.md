@@ -7,12 +7,14 @@
 
 ![Layout](./public/layouts.jpg)
 
+Оригиналы макетов в формате psd можно посмотреть в папке [public](https://github.com/QueenArizona/Surface/tree/master/public).
+
 В процессе вёрстки были реализованы следующие задачи:
 * Кроссбраузерная вёрстка
 * Адаптивная вёрстка для устройств с различными типами экрана
 * Семантическое использование тегов
 * Соответствие вёрстки макету (допускались отличия в толщина шрифта, межсимвольном расстоянии, в отступах — до 2px)
-* Валидная вёрстка (протестирована с помощью сервиса [W3C Markup Validation Service](https://validator.w3.org))
+* Валидная вёрстка (протестировано с помощью сервиса [W3C Markup Validation Service](https://validator.w3.org))
 * Реализация сетки страницы при помощи 'flexbox'
 * Соответствие принятому стилю кода для [HTML](https://github.com/netology-code/codestyle/tree/master/html) и [CSS](https://github.com/netology-code/codestyle/tree/master/css)
 * Итоговая демонстрации при помощи сервиса [GitHub Pages](https://pages.github.com/)
